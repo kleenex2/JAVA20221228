@@ -11,6 +11,21 @@ public class C01HelloWorld
 		System.out.println("HELLO WORLD");
 		System.out.println("HELLO WORLD");
 		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
+		
 	}
 
 }
